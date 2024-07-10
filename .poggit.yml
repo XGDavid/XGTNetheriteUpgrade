@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/XGDavid/XGTNetheriteUpgrade
+build-by-default: true
+branches:
+- main
+projects:
+  XGTNetheriteUpgrade:
+    path: ""
+    icon: "netherite.gif"
+...
