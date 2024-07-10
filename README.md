@@ -5,7 +5,7 @@ custom names.
 
 ## How to install
 
-1. Install the plugin from [here]()
+1. Install the plugin from [here](https://poggit.pmmp.io/ci/XGDavid/XGTNetheriteUpgrade)
 2. Start your server
 3. Edit Config
 4. Review the plugin :D
@@ -36,5 +36,5 @@ You can use [ItemUpgradeEvent]()
 
 # Pull Request/Bug report
 
-- Open a bug report [here]()
-- Open a pull request [here]()
+- Open a bug report [here](https://github.com/XGDavid/XGTNetheriteUpgrade/issues/new)
+- Open a pull request [here](https://github.com/XGDavid/XGTNetheriteUpgrade/pulls)
