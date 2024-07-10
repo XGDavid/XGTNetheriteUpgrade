@@ -1,0 +1,27 @@
+#
+# __   _______ _______ _____            __      _____
+# \ \ / / ____|__   __/ ____|           \ \    / /__ \
+#  \ V / |  __   | | | |     ___  _ __ __\ \  / /   ) |
+#   > <| | |_ |  | | | |    / _ \| '__/ _ \ \/ /   / /
+#  / . \ |__| |  | | | |___| (_) | | |  __/\  /   / /_
+# /_/ \_\_____|  |_|  \_____\___/|_|  \___| \/   |____|
+#
+#   @author XGDAVID
+#   Copyright (c) XGTeam & GCStaff - 2024
+#   !file XGDAVID
+#   (?) user: xgdav | 10/07/2024 8:09 PM
+#
+
+
+# XGTNetheriteUpgrade
+
+#version
+version: 1.0.0 #don't change!!!!!
+
+#if u want to use xp to upgrade ur item
+xp: false #true/false
+
+#if xp: true :
+xp-need: 15 #the amount of levels u need to upgrade ur item
+xp-take: 3 #the amount of levels u will lose after the upgrade
+
